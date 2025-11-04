@@ -15,7 +15,10 @@ numpy==2.3.3
 ollama==0.6.0
 openai==2.6.1
 openai-whisper==20250625
+openai-whisper==20250625
 pandas==2.3.2
+plotly==6.3.0
+python-dotenv==1.1.1
 plotly==6.3.0
 python-dotenv==1.1.1
 requests==2.32.5
@@ -23,11 +26,14 @@ scikit-learn==1.7.2
 scipy==1.16.1
 seaborn==0.13.2
 sentencepiece
+sentencepiece
 streamlit==1.50.0
 streamlit-audiorecorder==0.0.6
 tensorflow==2.20.0
 tiktoken==0.12.0
 tokenizers==0.21.4
+tokenizers==0.21.4
 tqdm==4.67.1
+transformers==4.55.4
 transformers==4.55.4
 wordcloud==1.9.4
