@@ -28,7 +28,7 @@ seaborn==0.13.2
 sentencepiece
 sentencepiece
 streamlit==1.50.0
-streamlit-audiorecorder==0.0.6
+streamlit-audiorecorder
 tensorflow==2.20.0
 tiktoken==0.12.0
 tokenizers==0.21.4
